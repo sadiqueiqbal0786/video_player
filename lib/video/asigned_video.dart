@@ -16,6 +16,7 @@ class _AsignedVideoState extends State<AsignedVideo> {
       appBar: AppBar(
         backgroundColor: Colors.lightGreen,
         title: const Text('Video Library', style: TextStyle(color: Colors.white)),
+      
       ),
       body: Column(
         children: [
